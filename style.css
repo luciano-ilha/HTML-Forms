@@ -31,17 +31,54 @@ body {
   margin-top: 4px;
  }
 
- .sign-in-help{
-   float: right;
-   margin-top: 10px;
- }
+.sign-in-help{
+  float: right;
+  margin-top: 10px;
+}
 
- .main-logo{
+.main-logo{
   display: flex;
- }
- .main-logo img{  
+}
+
+.main-logo img{  
   width: 200px;
   margin-left: auto;
   margin-right: auto;
   
- }
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  height: 500px;
+  margin: 20px auto 0;
+  padding-top: 20px;
+  border: 1px solid grey;
+  background-color: white;
+  align-items: center;
+}
+
+.form-items {
+  margin-top: 30px;
+}
+
+.items-label {
+  border: 3px solid black;
+}
+
+.items {
+  width: 300px;
+  text-align: center;
+  margin-bottom: 35px;
+}
+
+.form-button {
+  width: 200px;
+  height: 35px;
+  font-size: 13px;
+  color: white;
+  background-color: #0077C5;
+  border: 0.5px solid black;
+  border-radius: 5px;
+}
