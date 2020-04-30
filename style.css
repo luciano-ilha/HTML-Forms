@@ -6,7 +6,13 @@ body {
   background-color: #ECEEF1;
 }
 
+.head{
+  width: 100%;
+  height: 120px;
+}
+
 .head button{
+  
   float: right;
   margin: 10px;
   margin-right: 45px;
@@ -17,8 +23,25 @@ body {
   background-color: #0077C5;
   border: 0.5px solid black;
   border-radius: 5px;
+  
 }
 
 .head button img{
   max-width: 15px;
+  margin-top: 4px;
+ }
+
+ .sign-in-help{
+   float: right;
+   margin-top: 10px;
+ }
+
+ .main-logo{
+  display: flex;
+ }
+ .main-logo img{  
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  
  }
