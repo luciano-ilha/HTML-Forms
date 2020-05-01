@@ -6,7 +6,7 @@ A clone of the Sign-up Page, a display of the main form, with footer and top rig
 
 Live link here:
 
-https://rawcdn.githack.com/luciano-ilha/HTML-Forms/de77a36021aba7621778f18478a24622167a37fc/index.html
+https://rawcdn.githack.com/luciano-ilha/HTML-Forms/b551f588487b7ef17cdc7e49a6c3b17acea053c9/index.html
 
 Contributors:
 
