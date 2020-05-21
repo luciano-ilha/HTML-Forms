@@ -13,9 +13,9 @@
 - Google fonts
 
 
-## Live Demo:
+## Live Demo
 
-[Live Demo Link] (https://rawcdn.githack.com/luciano-ilha/HTML-Forms/b551f588487b7ef17cdc7e49a6c3b17acea053c9/index.html)
+[Live Demo Link](https://rawcdn.githack.com/luciano-ilha/HTML-Forms/b551f588487b7ef17cdc7e49a6c3b17acea053c9/index.html)
 
 
 ## Getting Started
