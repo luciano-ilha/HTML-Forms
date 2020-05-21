@@ -32,12 +32,12 @@ $ git clone https://github.com/luciano-ilha/HTML-Forms.git
 
 ## Authors
 
-**Luciano Ilha**
+**👤 Luciano Ilha**
 
-- Github: https://github.com/luciano-ilha
+- [Github](https://github.com/luciano-ilha)
 
-**Jacob Rees**
-- Github: https://github.com/jacobrees
+**👤 Jacob Rees**
+- [Github](https://github.com/jacobrees)
 
 
 
